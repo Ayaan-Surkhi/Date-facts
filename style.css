@@ -37,6 +37,7 @@ input{
   height: 50px;
   color : black;
   font-size : 18px;
+  outline : none;
   border : 3px white solid;
   display : block;
  }
